@@ -1,0 +1,268 @@
+{
+  "minAltura": 1.67,
+  "maxAltura": 1.95,
+  "minAnioNacimiento": 1986,
+  "maxAnioNacimiento": 2001,
+  "jugadores": [
+    {
+      "camiseta": 1,
+      "nombre": "Franco Armani",
+      "anioNacimiento": 1986,
+      "lugarNacimiento": "Casilda",
+      "provinciaNacimiento": "Santa Fe",
+      "puesto": "Arquero",
+      "equipo": "River Plate",
+      "altura": 1.89
+    },
+    {
+      "camiseta": 19,
+      "nombre": "Nicolás Otamendi",
+      "anioNacimiento": 1988,
+      "lugarNacimiento": "CABA",
+      "provinciaNacimiento": "CABA",
+      "puesto": "Defensor",
+      "equipo": "Benfica",
+      "altura": 1.83
+    },
+    {
+      "camiseta": 17,
+      "nombre": "Alejandro Gómez",
+      "anioNacimiento": 1988,
+      "lugarNacimiento": "CABA",
+      "provinciaNacimiento": "CABA",
+      "puesto": "Mediocampista",
+      "equipo": "Sevilla",
+      "altura": 1.67
+    },
+    {
+      "camiseta": 10,
+      "nombre": "Lionel Messi",
+      "anioNacimiento": 1987,
+      "lugarNacimiento": "Rosario",
+      "provinciaNacimiento": "Santa Fe",
+      "puesto": "Delantero",
+      "equipo": "PSG",
+      "altura": 1.7
+    },
+    {
+      "camiseta": 11,
+      "nombre": "Ángel Di María",
+      "anioNacimiento": 1988,
+      "lugarNacimiento": "Rosario",
+      "provinciaNacimiento": "Santa Fe",
+      "puesto": "Delantero",
+      "equipo": "Juventus",
+      "altura": 1.8
+    },
+    {
+      "camiseta": 8,
+      "nombre": "Marcos Acuña",
+      "anioNacimiento": 1991,
+      "lugarNacimiento": "Zapala",
+      "provinciaNacimiento": "Neuquén",
+      "puesto": "Defensor",
+      "equipo": "Sevilla",
+      "altura": 1.72
+    },
+    {
+      "camiseta": 6,
+      "nombre": "Germán Pezzella",
+      "anioNacimiento": 1991,
+      "lugarNacimiento": "Bahía Blanca",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Defensor",
+      "equipo": "Real Betis",
+      "altura": 1.87
+    },
+    {
+      "camiseta": 23,
+      "nombre": "Emiliano Martínez",
+      "anioNacimiento": 1992,
+      "lugarNacimiento": "Mar del Plata",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Arquero",
+      "equipo": "Aston Villa",
+      "altura": 1.95
+    },
+    {
+      "camiseta": 12,
+      "nombre": "Gerónimo Rulli",
+      "anioNacimiento": 1992,
+      "lugarNacimiento": "La Plata",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Arquero",
+      "equipo": "Villarreal",
+      "altura": 1.89
+    },
+    {
+      "camiseta": 3,
+      "nombre": "Nicolás Tagliafico",
+      "anioNacimiento": 1992,
+      "lugarNacimiento": "Rafael Calzada",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Defensor",
+      "equipo": "Lyon",
+      "altura": 1.72
+    },
+    {
+      "camiseta": 18,
+      "nombre": "Guido Rodríguez",
+      "anioNacimiento": 1994,
+      "lugarNacimiento": "Sáenz Peña",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Mediocampista",
+      "equipo": "Real Betis",
+      "altura": 1.85
+    },
+    {
+      "camiseta": 21,
+      "nombre": "Paulo Dybala",
+      "anioNacimiento": 1993,
+      "lugarNacimiento": "Laguna Larga",
+      "provinciaNacimiento": "Córdoba",
+      "puesto": "Delantero",
+      "equipo": "Roma",
+      "altura": 1.77
+    },
+    {
+      "camiseta": 7,
+      "nombre": "Rodrigo De Paul",
+      "anioNacimiento": 1994,
+      "lugarNacimiento": "Sarandí",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Mediocampista",
+      "equipo": "A. Madrid",
+      "altura": 1.8
+    },
+    {
+      "camiseta": 5,
+      "nombre": "Leandro Paredes",
+      "anioNacimiento": 1994,
+      "lugarNacimiento": "San Justo",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Mediocampista",
+      "equipo": "Juventus",
+      "altura": 1.8
+    },
+    {
+      "camiseta": 15,
+      "nombre": "Ángel Correa",
+      "anioNacimiento": 1995,
+      "lugarNacimiento": "Rosario",
+      "provinciaNacimiento": "Santa Fe",
+      "puesto": "Mediocampista",
+      "equipo": "A. Madrid",
+      "altura": 1.71
+    },
+    {
+      "camiseta": 4,
+      "nombre": "Gonzalo Montiel",
+      "anioNacimiento": 1997,
+      "lugarNacimiento": "González Catán",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Defensor",
+      "equipo": "Sevilla",
+      "altura": 1.76
+    },
+    {
+      "camiseta": 26,
+      "nombre": "Nahuel Molina ",
+      "anioNacimiento": 1998,
+      "lugarNacimiento": "Embalse",
+      "provinciaNacimiento": "Córdoba",
+      "puesto": "Defensor",
+      "equipo": "A. Madrid",
+      "altura": 1.75
+    },
+    {
+      "camiseta": 25,
+      "nombre": "Lisandro Martínez",
+      "anioNacimiento": 1998,
+      "lugarNacimiento": "Gualeguay",
+      "provinciaNacimiento": "Entre Ríos",
+      "puesto": "Defensor",
+      "equipo": "Man. United",
+      "altura": 1.75
+    },
+    {
+      "camiseta": 13,
+      "nombre": "Cristian Romero",
+      "anioNacimiento": 1998,
+      "lugarNacimiento": "Córdoba",
+      "provinciaNacimiento": "Córdoba",
+      "puesto": "Defensor",
+      "equipo": "Tottenham",
+      "altura": 1.85
+    },
+    {
+      "camiseta": 2,
+      "nombre": "Juan Foyth",
+      "anioNacimiento": 1998,
+      "lugarNacimiento": "La Plata",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Defensor",
+      "equipo": "Villarreal",
+      "altura": 1.87
+    },
+    {
+      "camiseta": 22,
+      "nombre": "Lautaro Martínez",
+      "anioNacimiento": 1997,
+      "lugarNacimiento": "Bahía Blanca",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Delantero",
+      "equipo": "Inter",
+      "altura": 1.74
+    },
+    {
+      "camiseta": 14,
+      "nombre": "Exequiel Palacios",
+      "anioNacimiento": 1998,
+      "lugarNacimiento": "Famaillá",
+      "provinciaNacimiento": "Tucumán",
+      "puesto": "Mediocampista",
+      "equipo": "Leverkusen",
+      "altura": 1.77
+    },
+    {
+      "camiseta": 20,
+      "nombre": "Alexis Mac Allister",
+      "anioNacimiento": 1998,
+      "lugarNacimiento": "Santa Rosa",
+      "provinciaNacimiento": "La Pampa",
+      "puesto": "Mediocampista",
+      "equipo": "Brighton",
+      "altura": 1.74
+    },
+    {
+      "camiseta": 9,
+      "nombre": "Julián Álvarez",
+      "anioNacimiento": 2000,
+      "lugarNacimiento": "Calchín",
+      "provinciaNacimiento": "Córdoba",
+      "puesto": "Delantero",
+      "equipo": "Man. City",
+      "altura": 1.7
+    },
+    {
+      "camiseta": 24,
+      "nombre": "Enzo Fernández",
+      "anioNacimiento": 2001,
+      "lugarNacimiento": "San Martín",
+      "provinciaNacimiento": "Buenos Aires",
+      "puesto": "Mediocampista",
+      "equipo": "Chelsea",
+      "altura": 1.78
+    },
+    {
+      "camiseta": 16,
+      "nombre": "Thiago Almada",
+      "anioNacimiento": 2001,
+      "lugarNacimiento": "CABA",
+      "provinciaNacimiento": "CABA",
+      "puesto": "Delantero",
+      "equipo": "Atlanta United",
+      "altura": 1.71
+    }
+  ]
+}
